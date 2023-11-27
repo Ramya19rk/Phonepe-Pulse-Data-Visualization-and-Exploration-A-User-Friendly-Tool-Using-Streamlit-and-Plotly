@@ -1,6 +1,8 @@
 # Phonepe-Pulse-Data-Visualization-and-Exploration-A-User-Friendly-Tool-Using-Streamlit-and-Plotly
 
-Problem Statement: The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics. The goal is to extract this data and process it to obtain insights and information that can be visualized in a user-friendly manner.
+# Problem Statement:
+
+	Developed an interactive PhonePe Pulse Data Visualization and Exploration dashboard, utilizing Python, Streamlit, and Plotly, to empower comprehensive analysis of transaction and user data, facilitating informed decision-making through dynamic insights and exploration.
 
 NAME : RAMYA KRISHNAN A
 
