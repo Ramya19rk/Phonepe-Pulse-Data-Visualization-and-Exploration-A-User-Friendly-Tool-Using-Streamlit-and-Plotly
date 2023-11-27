@@ -8,7 +8,7 @@ BATCH: D98
 
 DOMAIN : DATA SCIENCE
 
-DEMO VIDEO URL : 
+DEMO VIDEO URL : https://www.linkedin.com/posts/ramyakrishnan19_excited-to-share-my-recent-project-phonepe-activity-7134774046772068354-zjzH?utm_source=share&utm_medium=member_desktop
 
 Linked in URL : www.linkedin.com/in/ramyakrishnan19
 
