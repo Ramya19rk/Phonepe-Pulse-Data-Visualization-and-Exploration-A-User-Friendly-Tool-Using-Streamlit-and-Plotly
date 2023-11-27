@@ -1,3 +1,5 @@
+<img width="1440" alt="Screenshot 2023-11-27 at 10 34 08 AM" src="https://github.com/Ramya19rk/Phonepe-Pulse-Data-Visualization-and-Exploration-A-User-Friendly-Tool-Using-Streamlit-and-Plotly/assets/145639838/43dfbfc7-3fc8-4f5d-98bc-15a91683b571">
+<img width="1440" alt="Screenshot 2023-11-27 at 10 34 08 AM" src="https://github.com/Ramya19rk/Phonepe-Pulse-Data-Visualization-and-Exploration-A-User-Friendly-Tool-Using-Streamlit-and-Plotly/assets/145639838/2bc0c4cf-507a-4768-9860-8a52d053d1e9">
 # Phonepe-Pulse-Data-Visualization-and-Exploration-A-User-Friendly-Tool-Using-Streamlit-and-Plotly
 
 Problem Statement: The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics. The goal is to extract this data and process it to obtain insights and information that can be visualized in a user-friendly manner.
@@ -131,3 +133,6 @@ The "About" section provides information on:
 # Project Overview
 
 This project utilizes Streamlit and Plotly to create an interactive dashboard for exploring PhonePe Pulse data. The dashboard offers insights into transaction and user data, helping users analyze trends and make data-driven decisions.
+
+
+<img width="1440" alt="Screenshot 2023-11-27 at 10 34 08 AM" src="https://github.com/Ramya19rk/Phonepe-Pulse-Data-Visualization-and-Exploration-A-User-Friendly-Tool-Using-Streamlit-and-Plotly/assets/145639838/135e452c-0c8b-4234-a03f-b06ee8d33679">
