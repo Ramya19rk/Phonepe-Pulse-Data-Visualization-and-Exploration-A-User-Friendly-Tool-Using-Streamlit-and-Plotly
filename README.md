@@ -20,7 +20,8 @@ Linked in URL : www.linkedin.com/in/ramyakrishnan19
 
 PhonePe Pulse is your window to the world of how India transacts with interesting trends, deep insights and in-depth analysis based on our data put together by the PhonePe team.
 
-# Libraries/Modules needed for the project!
+
+## Libraries/Modules needed for the project!
 
        -> Plotly - (To plot and visualize the data)
        
