@@ -31,3 +31,60 @@ Libraries/Modules needed for the project!
               from streamlit_option_menu import option_menu
               from PIL import Image
               from git.repo.base import Repo
+
+
+### PhonePe Pulse Dashboard
+
+
+# Overview
+
+The PhonePe Pulse Dashboard provides a comprehensive view of transaction and user data, allowing users to explore and analyze key metrics. The dashboard consists of several features accessible through the sidebar menu.
+
+## Features
+
+# 1. Home Page
+
+The home page showcases key features of PhonePe, including:
+	•	Overview of PhonePe services
+	•	PhonePe Pulse highlights
+
+# 2. Top Charts
+
+a. Transaction Insights
+	•	Dropdown for selecting quarters
+	•	Top 10 state, district, and pincode for transactions
+       	•	India maps displaying overall state data:
+       	•	Transactions Amount
+       	•	Transactions Count
+       •	Top Payment Type analysis
+b. User Analytics
+	•	Dropdown for selecting quarters
+	•	Brand and App Opens insights
+	•	India map for Overall State Data - User App Opening Frequency
+	•	Top Payment Type analysis for user data
+# 3. Explore Data
+
+a. Transaction Exploration
+	•	Dropdown for selecting quarters
+	•	Slider for selecting specific quarters
+       	•	India maps displaying:
+       	•	Overall State Data - Transactions Amount
+       	•	Overall State Data - Transactions Count
+	•	Top Payment Type insights
+	•	District-wise transaction details
+b. User Exploration
+	•	Dropdown for selecting quarters
+	•	Slider for selecting specific quarters
+	•	India map for Overall State Data - User App Opening Frequency
+	•	District-wise user details
+
+# 4. About
+
+The "About" section provides information on:
+	•	Technologies and domains used
+	•	Project overview
+	•	Key features of PhonePe
+
+# Project Overview
+
+This project utilizes Streamlit and Plotly to create an interactive dashboard for exploring PhonePe Pulse data. The dashboard offers insights into transaction and user data, helping users analyze trends and make data-driven decisions.
