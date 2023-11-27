@@ -1,5 +1,19 @@
 # Phonepe-Pulse-Data-Visualization-and-Exploration-A-User-Friendly-Tool-Using-Streamlit-and-Plotly
 
+Problem Statement: The Phonepe pulse Github repository contains a large amount of data related to various metrics and statistics. The goal is to extract this data and process it to obtain insights and information that can be visualized in a user-friendly manner.
+
+NAME : RAMYA KRISHNAN A
+
+BATCH: D98
+
+DOMAIN : DATA SCIENCE
+
+DEMO VIDEO URL : 
+
+Linked in URL : www.linkedin.com/in/ramyakrishnan19
+
+
+
 ## What is PhonePe Pulse?
 
 PhonePe Pulse is your window to the world of how India transacts with interesting trends, deep insights and in-depth analysis based on our data put together by the PhonePe team.
