@@ -19,3 +19,15 @@ Libraries/Modules needed for the project!
        -> git.repo.base - (To clone the GitHub repository)
 
        
+## Importing the Libraries:
+
+              import os
+              import json
+              import pandas as pd
+              import mysql.connector
+              import git
+              import streamlit as st
+              import plotly.express as px
+              from streamlit_option_menu import option_menu
+              from PIL import Image
+              from git.repo.base import Repo
