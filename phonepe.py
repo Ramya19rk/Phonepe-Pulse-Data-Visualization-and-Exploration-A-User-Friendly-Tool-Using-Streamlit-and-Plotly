@@ -21,7 +21,7 @@ st.set_page_config(
 
 config = {'host' : 'localhost',
               'user' : 'root',
-              'password' : 'Arulezhil@71',
+              'password' : 'xxxxx',
               'database' : 'phonepe_data'}
 
 conn = mysql.connector.connect(**config)
